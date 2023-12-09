@@ -3,4 +3,4 @@ A simple chatbot created using python. It's learning can only be achieved by tea
 
 To run:
 
-Just donwload the 2 files, and run the main.py file.
+Just download the 2 files, and run the main.py file.
